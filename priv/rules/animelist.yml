@@ -53,7 +53,7 @@
      text_ru: В дорогу дальнюю идем по неизведанным тропинкам. Сколько впереди ещё интересного!
      title_en: A cakewalk
      text_en: We are going on a long journey along uncharted paths. How many interesting things lie ahead!
-     image: /assets/achievements/anime/animelist_5.jpg
+     image: https://ie.wampi.ru/2022/08/02/5kV9K7G1tE0.jpg
      border_color: "#FFDC33"
 
 - <<: *defaults
